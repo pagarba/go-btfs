@@ -11,4 +11,4 @@ var log = logging.Logger("corehttp/remote")
 
 // Must exist here to avoid circular dependency from
 // core/commands -> core/corehttp/remote -> core/commands
-const apiPrefix = "/api/v0"
+const apiPrefix = "/api/v1"
