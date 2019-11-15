@@ -1,12 +1,12 @@
-# go-btfs
+# go-kudzu
 
 
 
-## What is BTFS?
+## What is Kudzu?
 
-BitTorrent File Sharing (BTFS) is a file-sharing protocol forked from 
-IPFS that utilizes the TRON network and the BitTorrent Ecosystem for integration with DApps and smart 
-contracts. The <a href="https://docs.btfs.io/" target="_blank">API documentation</a> walks developers through BTFS setup, usage, and contains all the API references.  
+Kudzu is a automation digital asset File Sharing protocol forked from 
+IPFS and birds that integrates blockchain networks and the kudzu distributed Messaging protocols and AI-DevOPs automation smart contracts  Ecosystem for integration with DApps, enterprise legacy systems , the cloud , nosql databases  and machine learning algorithms. 
+The <a href="https://docs.kudzu.io/" target="_blank">API documentation</a> walks developers through BTFS setup, usage, and contains all the API references.  
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ contracts. The <a href="https://docs.btfs.io/" target="_blank">API documentation
 
 ### System Requirements
 
-BTFS can run on most Linux, macOS, and Windows systems. We recommend 
+Kudzu  can run on most Linux, macOS, and Windows systems. We recommend 
 running it on a machine with at least 2 GB of RAM (it’ll do fine with 
 only one CPU core), but it should run fine with as little as 1 GB of 
 RAM. On systems with less memory, it may not be completely stable.
@@ -94,7 +94,7 @@ $ cd go-btfs
 ```
 
 
-#### Step3 Build And Join BTFS Private Net
+#### Step3 Build And Join Kudzu Private Net
 
 Your can choose to using on-step script to compile and build or just follow step by step.
 
